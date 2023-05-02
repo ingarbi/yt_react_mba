@@ -39,7 +39,7 @@ export const features = [
     icon: send,
     title: "Balance Transfer",
     content:
-      "A balance transfer card can save you a lot of money.",
+      "A balance transfer card can save you a lot of money and transactions are secure. ",
   },
 ];
 
